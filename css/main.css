@@ -60,3 +60,22 @@ img {
   top: 0px;
   padding: 0 30px;
 }
+
+.navbar .logo {
+  font-weight: 400;
+}
+
+.navbar a {
+  color: #fff;
+  padding: 10px 20px;
+  margin: 0 5px;
+}
+
+.navbar a:hover {
+  border-bottom: #28A745 2px solid;
+}
+
+.navbar ul {
+  display: flex;
+  
+}
